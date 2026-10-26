@@ -1,0 +1,30 @@
+[
+  {
+    "id": "audit-001",
+    "caseId": "CYBER-2026-ETH-8821",
+    "action": "CASE_CREATED_AND_INGESTED",
+    "officer": "Insp. Rajesh Kumar (DL-CYBER-104)",
+    "timestamp": "2026-08-10T14:22:18Z"
+  },
+  {
+    "id": "audit-002",
+    "caseId": "CYBER-2026-ETH-8821",
+    "action": "SECTION_91_NOTICE_GENERATED",
+    "officer": "Insp. Rajesh Kumar (DL-CYBER-104)",
+    "timestamp": "2026-08-10T16:05:00Z"
+  },
+  {
+    "id": "audit-003",
+    "caseId": "LIVE-098B-7721",
+    "action": "LIVE_ETHERSCAN_TRACE_EXECUTED",
+    "officer": "Insp. Rajesh Kumar (DL-CYBER-104)",
+    "timestamp": "2026-09-12T18:15:00Z"
+  },
+  {
+    "id": "audit-004",
+    "caseId": "LIVE-098B-7721",
+    "action": "SENTINEL_24_7_WATCHTOWER_ARMED",
+    "officer": "Insp. Rajesh Kumar (DL-CYBER-104)",
+    "timestamp": "2026-09-14T21:40:00Z"
+  }
+]
